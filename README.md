@@ -6,4 +6,4 @@
   - Implementation of AXI4-Lite on FPGA.
   - FPGA-Based Hardware Implementation of CNN and Activation Functions for Machine Learning Acceleration.
   - Short Term Load Forecasting using BiLSTM and CNN-BiLSTM.
-- 📫 How to reach me: Please do message me on my Linkedin [![Linkedin](https://www.linkedin.com/in/vishnu-bharadwaj-m-n-347020241/)
+- 📫 How to reach me: Please do message me on my Linkedin 
